@@ -1,0 +1,1 @@
+python.ExecuteFile "e:/RCMax/testTextureFile.py"
