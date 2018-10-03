@@ -1,0 +1,60 @@
+myDAMURL = "http://222.173.12.3:3000"
+myURL = "http://222.173.12.3:8181/razuna"
+myRootURL = "http://211.87.224.168:4200"
+teamName = ''  #RC-Team
+teamDBName = ''
+uploadURL = ''
+userToken = {}
+teamList = []
+
+softwareVersion = '3dsMax2014'
+IconFlag = False
+loginFlag = False
+openFlag = False
+
+versionURL = ''
+assetID = None
+baseModelTask = None
+baseModelFile = ''
+
+lang = 'zh'
+sysStorageDir = ""
+storageDir = ""
+monthInfo = {}
+razuna_Texture_Dir = 'texture'
+razuna_Images_Dir = 'images'
+razuna_Log_Dir = 'log'
+razuna_Submit_Dir = 'submitFile'
+razuna_Return_Dir = 'returnFile'
+razuna_Light_Dir = 'LightDir'
+razuna_Shot_Dir = 'ShotDir'
+icon_Dir = 'icon'
+userName = ''
+password = ''
+projectName = ''
+service = ''
+parentProjectID = ''
+sceneName = ''
+lightName = ''
+sceneName_suffix = ''
+tasks = []
+dispTaskList = []
+currentTask = ''
+taskIndex = 0
+mouseCount = 0
+saveFlag = False
+loadFlag = True
+fileID = ''
+
+IconWidth = 256
+IconHeight = 256
+
+logFileExt = '.ini'
+iconLogFileExt = '.ini'
+project_Dir = 'projects_3DSmax'
+sysStorageDir = ""
+storageDir = ""
+dynamicStorageFlag = True
+workDir = "e:\\temp"
+ConfigFileName = 'RC3DSMax.ini'
+pidFileName = 'RCC_3DSMax.pid'
